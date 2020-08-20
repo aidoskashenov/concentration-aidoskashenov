@@ -2,7 +2,7 @@
   "name": "server",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.mjs",
   "scripts": {
     "start-server": "nodemon 'dist/main.js'",
     "watcher": "webpack --watch"
